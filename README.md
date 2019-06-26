@@ -1,2 +1,8 @@
-# Mobile-Robot-Obstacle-Avoidance
-Implemented Bug0, Bug1 and Bug2 algorithms on an Arduino-based robot
+## Mobile-Robot-Obstacle-Avoidance
+### Project1 ###
+* Moving along the path.
+* Measuring the distance.
+* Start the robot with tapping on the accelerator.
+
+### Project2 ###
+* Implement bug0, bug1 & bug2.
